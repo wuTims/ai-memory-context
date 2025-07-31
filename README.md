@@ -1,6 +1,7 @@
 # AI Memory Context Tool
 
 This guide explains how to use the AI Memory Context tool, which helps provide relevant contextual information to AI assistants based on your specific needs.
+Initially developed for maintaing a context memory bank for strong coding practices and Cardano domain specific information.
 
 ## Overview
 
